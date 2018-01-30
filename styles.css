@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+h1 {
+  color: blue;
+  border: 2px solid yellow;
+}
+
+h2 {
+  color: green;
+  border: 2px solid purple;
+}
+
+p {
+  color: gray;
+  border: 5px solid red;
+=======
 body h1 {
   text-align: center;
   color: white;
@@ -11,4 +26,5 @@ h2 {
 p {
   color: purple;
   border-radius: 50%; 
+>>>>>>> cead16843404c5d4c584cd8803fe4e63b14f1b1d
 }

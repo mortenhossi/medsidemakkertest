@@ -1,0 +1,14 @@
+body h1 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+}
+
+p {
+  color: purple;
+  border-radius: 50%; 
+}

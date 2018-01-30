@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  border: 2px solid yellow;
+}
+
+h2 {
+  color: green;
+  border: 2px solid purple;
+}
+
+p {
+  color: gray;
+  border: 5px solid red;
+}
